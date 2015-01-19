@@ -1,0 +1,15 @@
+only
+split
+focus
+select $win0
+split
+split -v
+focus
+select $win1
+focus
+select $win2
+split -v
+focus
+select $win3
+focus
+
