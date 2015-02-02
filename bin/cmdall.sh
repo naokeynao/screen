@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# Author: Kiriyama
+
 # set session name
 s_name=$1
 

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Author: Kiriyama
+
 
 function make_screens {
 i=1
